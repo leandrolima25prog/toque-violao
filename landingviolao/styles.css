@@ -27,7 +27,7 @@ header {
   padding: 20px 40px;
   display: grid;
   text-align: center;
-  background-image: url('../src/imagens/header.jpg');
+  background-image: url('imagens/header.jpg');
 }
 
 header h1 {
@@ -90,17 +90,17 @@ section.imagem > p {
 }
 
 section#img01 {
-  background-image: url('../src/imagens/eu1.jpeg');
+  background-image: url('imagens/eu1.jpeg');
   background-position: center;
 }
 
 section#img02 {
-  background-image: url('../src/imagens/vio1.jpg');
+  background-image: url('imagens/vio1.jpg');
   background-position: center;
 }
 
 section#img03 {
-  background-image: url('../src/imagens/aluno.jpg');
+  background-image: url('imagens/aluno.jpg');
   background-position: center;
 }
 
